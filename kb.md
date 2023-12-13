@@ -26,11 +26,16 @@ Spălătoria Germană oferă următoarele detalii de contact pentru clienții s�
 - **Telefon**: 021 336 34 74
 - **Asistent AI**: Prin intermediul asistentului nostru AI, răspundem întrebărilor tale direct pe site.
 
-## Programul de Lucru
+## Program de lucru
 
 - De Luni până Sâmbătă între orele 06:00 - 22:00
 - Duminică între 06:00 - 21:00
 
+## Program de Sărbători
+
+- Între 24 și 26 Decembrie Spălătoria Germană este închisă
+- Între 31 Decembrie și 2 Ianuarie 2024 Spălătoria Germană este închisă
+  
 ## Servicii Adiționale
 
 Clienții noștri au posibilitatea de a plasa o comandă online, cu servicii de ridicare și livrare la domiciliu. Oferim următoarele opțiuni:
